@@ -1,0 +1,37 @@
+.tbr_wp_share.left{
+	float: left;
+	margin-right: 10px;
+}
+
+.tbr_wp_share.right{
+	float: right;
+	margin-left: 10px;
+}
+
+.tbr_wp_share.top{
+	margin-bottom: 10px;
+}
+
+.tbr_wp_share.bottom{
+	margin-top: 10px;
+}
+
+.tbr_wp_share.small{
+	width: 112px !important;
+	height: 20px !important;
+}
+
+.tbr_wp_share.medium{
+	width: 150px !important;
+	height: 28px !important;
+}
+
+.tbr_wp_share.large{
+	width: 70px !important;
+	height: 78px !important;
+}
+
+.tbr_wp_share.xlarge{
+	width: 70px !important;
+	height: 103px !important;
+}
